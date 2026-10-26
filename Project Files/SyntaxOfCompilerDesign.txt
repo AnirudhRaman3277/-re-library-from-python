@@ -1,0 +1,9 @@
+%{
+Declaration section
+%}
+
+%%
+
+Rule Section
+%%
+other auxiliary functions
